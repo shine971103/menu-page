@@ -1,0 +1,5 @@
+.vscode/
+.venv/
+*.tmp
+origin_*
+head_index.txt
